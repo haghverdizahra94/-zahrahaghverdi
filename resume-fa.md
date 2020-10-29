@@ -1,5 +1,4 @@
 <div dir="rtl">
-<div style="font-size:30px">
 <h1> زهرا حق وردی </ h1>
  طراح سایت
  
@@ -79,6 +78,4 @@ javascript ( 100 %)
 <br>
  اینستاگرام: zzahrai425
 <br>
-
-</div>
 </div>
