@@ -1,37 +1,91 @@
-## Welcome to GitHub Pages
+<h1>zahra haghverdi</h1>
+site designer
+---
 
-You can use the [editor on GitHub](https://github.com/haghverdizahra94/-zahrahaghverdi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Specifications :
++ Born: 1379/4/2
++ Gender: Female 
++ Contact number: 09302720706
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
+### Educational background : 
 
-### Markdown
++ 1397 so far 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Computer Engineering :
 
-```markdown
-Syntax highlighted code block
++ software ، Payame Noor Shahriar University,Masters
++ GPA: 16
 
-# Header 1
-## Header 2
-### Header 3
+---
+### Summary of activities :
 
-- Bulleted
-- List
++ Doing site design projects (Shop, photography,product introduction، Restaurant ،
+news site) 
 
-1. Numbered
-2. List
+---
+### Projects :
++ ۱۳۹۹ 
+- shopping website
+- Front end and Back end
 
-**Bold** and _Italic_ and `Code` text
++ ۱۳۹۹ 
+- news site
+- Front end and Back end
 
-[Link](url) and ![Image](src)
-```
++ ۱۳۹۹ 
+- Photography site
+- Front end and Back end
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
++ ۱۳۹۹ 
+- Product introduction site
+- Front end and Back end
 
-### Jekyll Themes
++ ۱۳۹۹ 
+- Modern restaurant site
+- Front end and Back end
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/haghverdizahra94/-zahrahaghverdi/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+---
+### Skills
 
-### Support or Contact
++ Html5 (100 % )
++ Css3 ( 100 % )
++ bootstrap (100 %)
++ javascript (100 % )
++ jQuery (100 %)
++ C (100 % )
++ C++ (100 % )
++ Excel (100% )
++ Word  (100% )
++ Powerpoint (100% )
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
+### Language :
+
++ Mastery rate (50%)
+
+---
+### Behavioral strengths
+
++ Customer and employer communication
++  Central strategy (strategic thinking)
++ Impact / negotiation
++ Problem solving and decision making
++ Commitment and motivation to serve
+
+---
+### Briefly from me
+
++ My interest in site design and large projects 
+
+---
+### Ways of communication
+
++ email : haghverdizahra94@gmail.com
++ Git Hub: zahrahaghverdi94@gmail.com
++ Telegram : zzahrai425
++ Instagram : zzahrai425
+
+---
+
+
