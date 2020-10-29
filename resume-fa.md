@@ -78,6 +78,4 @@ javascript ( 100 %)
 <br>
  اینستاگرام: zzahrai425
 <br>
-زهرا
-
 </div>
