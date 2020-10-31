@@ -87,4 +87,4 @@ news site)
 + Instagram : zzahrai425
 
 ---
-[رزومه فارسی](/resume-fa)
+Persian resume: <a href="https://haghverdizahra94.github.io/zahrahaghverdi/"> Resume </a>
